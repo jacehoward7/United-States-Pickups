@@ -9,3 +9,4 @@ Some Notes:
   - Since I created this in 2025, I chose to mark the end of all models using that year rather than "Present"
   - I tended to leave out Large Trucks with small engine options, such as the Silverado 1500 4.3L V6 which has plenty of solid V8 alternatives, or the Suzuki Equator 2.5L I4 which has the larger 4.0L V6 option. 
   - I apologize to the true enthusiasts, but I opted to report automatic transmissions when pulling data for consistency. MANY of these trucks have manual options as well.
+  - Numerical features, including Displacement, Horsepower, and Torque, are stored as raw numerical values, but formatted to display their respective units. This was done for possible data analysis.
